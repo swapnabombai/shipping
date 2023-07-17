@@ -2,4 +2,3 @@
 
 env.cibuild = "java"
 mainci()
-java()
